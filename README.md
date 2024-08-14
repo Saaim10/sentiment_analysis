@@ -29,8 +29,5 @@ The model's performance is evaluated using accuracy and a detailed classificatio
 Contributing
 Contributions are welcome! Please open an issue or submit a pull request to contribute to the project.
 
-Contact
-For any questions or suggestions, feel free to contact the project maintainer:
-
 Name: Saaim Asad
 Email: saaimasad89@gmail.com
